@@ -1,6 +1,6 @@
 ![logo](https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif)
 <h1 align="center">Hi 👋, I'm Bisma Tanveer Mirza</h1>
-<h3 align="center">A passionate student about web development from lahore</h3>
+<h3 align="center">A passionate student about Web Development from Lahore</h3>
 
 <img align="right" alt="Development" width="400" src="https://i.gifer.com/JXA0.gif">
 
