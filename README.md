@@ -78,20 +78,6 @@
 
 ---
 
-### 🚀 Activity Overview
-
-<p align="center">
-  <img src="https://github.com/bisma1206/bisma1206/blob/main/assets/activity-overview.png" alt="Activity Overview" />
-</p>
-
-🟢 **Commit Distribution**:  
-- **89% Commits**  
-- **11% Pull Requests**  
-- **0% Code Reviews & Issues (visible in chart)**  
-
-_This shows strong contribution focus and high development activity!_
-
----
 
 ### 🎯 Future Goals
 
