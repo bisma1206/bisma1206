@@ -74,7 +74,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bisma1206&theme=default" alt="Profile Summary" />
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bisma1206&theme=default" alt="Most Used Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bisma1206&theme=default" alt="Productive Time" />
+  
 </p>
 
 ---
