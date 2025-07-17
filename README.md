@@ -59,13 +59,9 @@
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=bisma1206&theme=default" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisma1206&layout=compact&langs_count=10&theme=default" alt="Top Languages" />
 </p>
-
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=bisma1206&theme=default">
-</p>
-
 
 
 
