@@ -83,7 +83,7 @@
 
 ### 🎯 Future Goals
 
-- 🔭 I aim to become a **professional Software Engineer** with a strong foundation in full-stack web development.  
+- 🔭 I aim to become a **AI/ML Engineer** with a strong foundation in python and AI/ML.  
 - 🤖 I'm passionate about **Artificial Intelligence** and plan to integrate AI into real-world solutions.  
 - 📚 Constantly learning and improving my skills in modern frameworks, data structures, and machine learning.
 
