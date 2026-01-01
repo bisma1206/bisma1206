@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bisma Tanveer Mirza</h1>
-<h3 align="center">A passionate student of Web Development and an AI enthusiast</h3>
+<h3 align="center">A passionate student of Machine Learning and an AI enthusiast</h3>
 
 <img align="right" alt="Development" width="400" src="https://i.gifer.com/JXA0.gif">
 
